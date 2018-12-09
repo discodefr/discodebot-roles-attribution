@@ -1,0 +1,24 @@
+{
+  "name": "discode_rolesreact",
+  "version": "1.0.0",
+  "description": "A bot for roles attributions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Discord",
+    "DisCode",
+    "javascript",
+    "js",
+    "app",
+    "github"
+  ],
+  "author": "Paulé",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "moment": "^2.22.2"
+  }
+}
