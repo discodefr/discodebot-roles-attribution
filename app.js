@@ -38,4 +38,4 @@ fs.readdir(`./commands`, (e, files) => {
 client.on(`error`, console.error);
 client.on(`warn`, console.warn);
   
-client.login(config.token)
+client.login(process.env.TOKEN)
